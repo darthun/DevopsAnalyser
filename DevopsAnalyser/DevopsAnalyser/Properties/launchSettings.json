@@ -2,7 +2,7 @@
   "profiles": {
     "DevopsAnalyser": {
       "commandName": "Project",
-      "commandLineArgs": " C:\\Users\\chapo\\Desktop\\toolpres\\commitdata2.txt -file -c"
+      "commandLineArgs": " C:\\Users\\chapo\\Desktop\\toolpres\\commitdata.txt -file -c"
     }
   }
 }

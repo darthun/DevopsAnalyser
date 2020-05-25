@@ -1,0 +1,16 @@
+C:\Users\chapo\source\repos\darthun\DevopsAnalyser\DevopsAnalyser\DevopsAnalyser\bin\Debug\netcoreapp3.1\DevopsAnalyser.exe
+C:\Users\chapo\source\repos\darthun\DevopsAnalyser\DevopsAnalyser\DevopsAnalyser\obj\Debug\netcoreapp3.1\DevopsAnalyser.csprojAssemblyReference.cache
+C:\Users\chapo\source\repos\darthun\DevopsAnalyser\DevopsAnalyser\DevopsAnalyser\obj\Debug\netcoreapp3.1\DevopsAnalyser.AssemblyInfoInputs.cache
+C:\Users\chapo\source\repos\darthun\DevopsAnalyser\DevopsAnalyser\DevopsAnalyser\obj\Debug\netcoreapp3.1\DevopsAnalyser.AssemblyInfo.cs
+C:\Users\chapo\source\repos\darthun\DevopsAnalyser\DevopsAnalyser\DevopsAnalyser\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\chapo\source\repos\darthun\DevopsAnalyser\DevopsAnalyser\DevopsAnalyser\obj\Debug\netcoreapp3.1\DevopsAnalyser.csproj.CopyComplete
+C:\Users\chapo\source\repos\darthun\DevopsAnalyser\DevopsAnalyser\DevopsAnalyser\obj\Debug\netcoreapp3.1\DevopsAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\chapo\source\repos\darthun\DevopsAnalyser\DevopsAnalyser\DevopsAnalyser\bin\Debug\netcoreapp3.1\DevopsAnalyser.deps.json
+C:\Users\chapo\source\repos\darthun\DevopsAnalyser\DevopsAnalyser\DevopsAnalyser\bin\Debug\netcoreapp3.1\DevopsAnalyser.runtimeconfig.json
+C:\Users\chapo\source\repos\darthun\DevopsAnalyser\DevopsAnalyser\DevopsAnalyser\bin\Debug\netcoreapp3.1\DevopsAnalyser.runtimeconfig.dev.json
+C:\Users\chapo\source\repos\darthun\DevopsAnalyser\DevopsAnalyser\DevopsAnalyser\bin\Debug\netcoreapp3.1\DevopsAnalyser.dll
+C:\Users\chapo\source\repos\darthun\DevopsAnalyser\DevopsAnalyser\DevopsAnalyser\bin\Debug\netcoreapp3.1\DevopsAnalyser.pdb
+C:\Users\chapo\source\repos\darthun\DevopsAnalyser\DevopsAnalyser\DevopsAnalyser\bin\Debug\netcoreapp3.1\CommandLine.dll
+C:\Users\chapo\source\repos\darthun\DevopsAnalyser\DevopsAnalyser\DevopsAnalyser\obj\Debug\netcoreapp3.1\DevopsAnalyser.dll
+C:\Users\chapo\source\repos\darthun\DevopsAnalyser\DevopsAnalyser\DevopsAnalyser\obj\Debug\netcoreapp3.1\DevopsAnalyser.pdb
+C:\Users\chapo\source\repos\darthun\DevopsAnalyser\DevopsAnalyser\DevopsAnalyser\obj\Debug\netcoreapp3.1\DevopsAnalyser.genruntimeconfig.cache

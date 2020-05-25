@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wruqmOIVNMSxZaFsW0p50hO/6EezoSPCvzYkdbD+fSmZBQSR5yc88dEIf92rzzWELGkXtzsV+LWJKDxyw+DhZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chapo\\source\\repos\\darthun\\DevopsAnalyser\\DevopsAnalyser\\DevopsAnalyser\\DevopsAnalyser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chapo\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512",
+    "C:\\Users\\chapo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
